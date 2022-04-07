@@ -1,3 +1,8 @@
+
 Hola, esto es un archivo de prueba para el dominio de git.
 
 Modificación usuario B
+
+Hola, esto es un archivo de prueba para el dominio de git. 
+Esto va a generar un conflicto. 'Ay no'. 
+
